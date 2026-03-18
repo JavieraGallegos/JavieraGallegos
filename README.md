@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 
 👋 Hola, soy Javiera Gallegos
 💼 Sobre mí
