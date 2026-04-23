@@ -2,8 +2,7 @@
 ---
 
 👋 Hola, soy Javiera Gallegos
-💼 Sobre mí
-Soy estudiante del bootcamp de Generation y desarrolladora en formación. Actualmente me encuentro enfocada en el aprendizaje de programación en Java y en fortalecer mis fundamentos en desarrollo de software.
+💼 Soy estudiante del bootcamp de Generation y desarrolladora en formación. Actualmente me encuentro enfocada en el aprendizaje de programación en Java y en fortalecer mis fundamentos en desarrollo de software.
 
 Me interesa el área de la informática, especialmente la programación, el manejo de bases de datos, la seguridad informática y el diseño de páginas web. Busco desarrollar soluciones funcionales aplicando buenas prácticas y un enfoque en el desarrollo seguro.
 
